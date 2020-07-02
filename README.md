@@ -5,6 +5,7 @@
 It allows you to use animated sliders inspired in the ones Resolume has in processing. With this you are able to animate your variables on real time ! 
 
 Te permite utilizar Sliders Animados como los del resolume !!
+
 TECLAS :   
 
 Tecla mouse izquierda : Pincel.
