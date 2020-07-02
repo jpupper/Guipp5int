@@ -28,8 +28,6 @@ Slider :
 	<> || R B    |________________| 
 
 
-
-
 MinR: El valor minimo posible a seleccionar
 MaxR: El valor Max posible a seleccionar
 Min:  El minimo actual
@@ -42,6 +40,9 @@ R: Si el valor es random o no
 B: Si el valor cuando llega al limite(maximo o minimo) rebota o vuelve a pasar al 1.
 
 |______________| Velocidad en la que cambia la variable.
+
+
+
 
 <img src="https://github.com/jpupper/Guipp5int/blob/master/Untitled-5.png">
 <img src="https://github.com/jpupper/Guipp5int/blob/master/Untitled-6.png">
