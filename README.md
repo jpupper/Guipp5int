@@ -8,15 +8,25 @@ It allows you to use animated sliders inspired in the ones Resolume has in proce
 TECLAS :   
 
 Tecla mouse izquierda : Pincel.
+
 Tecla mouse derecha   : Goma.
+
 1: Mostrar/ocultar elipses
+
 2: Mostrar/ocultar poligono
+
 3: sacar/poner bordes
+
 s: Sumar cantidad de puntas
+
 a: Restar cantidad de puntas
+
 b: Refrescar background
+
 n: Mostrar/ocultar controles
+
 l: Activar/desactivar optimización de borde 
+
 
 Slider : 
 
