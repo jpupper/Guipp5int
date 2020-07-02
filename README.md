@@ -8,11 +8,11 @@ Te permite utilizar Sliders Animados como los del resolume !!
 
 TECLAS :   
 
-Tecla mouse izquierda : Pincel.
+Tecla mouse izquierda/left : Pincel.
 
-Tecla mouse derecha   : Goma.
+Tecla mouse derecha/right   : Goma.
 
-1: Mostrar/ocultar elipses
+1: Mostrar/ocultar- show/hide elipses
 
 2: Mostrar/ocultar poligono
 
