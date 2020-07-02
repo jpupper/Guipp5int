@@ -20,12 +20,12 @@ l: Activar/desactivar optimización de borde
 
 Slider : 
 
-           
-            Posición
-	    |\/|
-MinR  Min   \__/  max     MaxR
-|-----/_|--------|_\-------| 
-<> || R B    |________________| 
+
+		    Posición
+		    |\/|
+	MinR  Min   \__/  max     MaxR
+	|-----/_|--------|_\-------| 
+	<> || R B    |________________| 
 
 MinR: El valor minimo posible a seleccionar
 MaxR: El valor Max posible a seleccionar
