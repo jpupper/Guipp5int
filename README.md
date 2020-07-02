@@ -29,15 +29,24 @@ Slider :
 
 
 MinR: El valor minimo posible a seleccionar
+
 MaxR: El valor Max posible a seleccionar
+
 Min:  El minimo actual
+
 Max:  El maximo actual
+
 Posicion: Valor actual que toma.
 
+
 <>: Dirección a la que esta yendo.
+
 ||: Si esta en pausa o no.
+
 R: Si el valor es random o no
+
 B: Si el valor cuando llega al limite(maximo o minimo) rebota o vuelve a pasar al 1.
+
 
 |______________| Velocidad en la que cambia la variable.
 
