@@ -27,6 +27,9 @@ Slider :
 	|-----/_|--------|_\-------| 
 	<> || R B    |________________| 
 
+
+
+
 MinR: El valor minimo posible a seleccionar
 MaxR: El valor Max posible a seleccionar
 Min:  El minimo actual
